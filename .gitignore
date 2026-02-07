@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.vscode/
+.idea/
+
+# outputs accidentales
+*.npy
+*.npz
+*.bag
+*.log
+*.pdf
+*.png
+*.jpg
+*.csv
